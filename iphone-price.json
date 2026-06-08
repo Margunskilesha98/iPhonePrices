@@ -4136,6 +4136,268 @@
         "price": "380 BYN"
       }
     ],
+     "se-2020": [
+      {
+        "name": "Диагностика",
+        "slug": "diagnostika",
+        "desc_ref": "",
+        "price": "Бесплатно"
+      },
+      {
+        "name": "Замена аккумулятора",
+        "slug": "zamena-akkumulyatora",
+        "desc_ref": "desc_83",
+        "price": "100 BYN"
+      },
+      {
+        "name": "Замена дисплея (аналог OLED)",
+        "slug": "zamena-displeya-analog-oled",
+        "desc_ref": "desc_20",
+        "price": "90 BYN"
+      },
+      {
+        "name": "Замена дисплея (восстановленный оригинал)",
+        "slug": "zamena-displeya-vosstanovlennyi-original",
+        "desc_ref": "desc_4",
+        "price": "120 BYN"
+      },
+      {
+        "name": "Замена стекла дисплея",
+        "slug": "zamena-stekla-displeya",
+        "desc_ref": "desc_84",
+        "price": "60 BYN"
+      },
+      {
+        "name": "Замена корпуса",
+        "slug": "zamena-korpusa",
+        "desc_ref": "desc_36",
+        "price": "140 BYN"
+      },
+      {
+        "name": "Нет звуков либо плохой звук",
+        "slug": "net-zvukov-libo-plohoi-zvuk",
+        "desc_ref": "desc_10",
+        "price": "70 BYN"
+      },
+      {
+        "name": "Замена слухового динамика",
+        "slug": "zamena-sluhovogo-dinamika",
+        "desc_ref": "",
+        "price": "60 BYN"
+      },
+      {
+        "name": "Замена аудио кодека",
+        "slug": "zamena-audio-kodeka",
+        "desc_ref": "desc_85",
+        "price": "160 BYN"
+      },
+      {
+        "name": "Не работает камера",
+        "slug": "ne-rabotaet-kamera",
+        "desc_ref": "desc_11",
+        "price": "120 BYN"
+      },
+      {
+        "name": "Замена фронтальной камеры",
+        "slug": "zamena-frontalnoi-kamery",
+        "desc_ref": "desc_86",
+        "price": "80 BYN"
+      },
+      {
+        "name": "Восстановление цепи питания",
+        "slug": "vosstanovlenie-tsepi-pitaniya",
+        "desc_ref": "desc_12",
+        "price": "от 50 BYN"
+      },
+      {
+        "name": "Замена шлейфа зарядки",
+        "slug": "zamena-shleifa-zaryadki",
+        "desc_ref": "desc_13",
+        "price": "от 100 BYN"
+      },
+      {
+        "name": "Замена контроллера заряда",
+        "slug": "zamena-kontrollera-zaryada",
+        "desc_ref": "desc_76",
+        "price": "130 BYN"
+      },
+      {
+        "name": "Не работают кнопки",
+        "slug": "ne-rabotayut-knopki",
+        "desc_ref": "desc_15",
+        "price": "70 BYN"
+      },
+      {
+        "name": "Замена кнопки Home",
+        "slug": "zamena-knopki-home",
+        "desc_ref": "desc_87",
+        "price": "70 BYN"
+      },
+      {
+        "name": "Замена или увеличение флеш памяти",
+        "slug": "zamena-ili-uvelichenie-flesh-pamyati",
+        "desc_ref": "desc_77",
+        "price": "от 210 BYN"
+      },
+      {
+        "name": "Не работает WiFi",
+        "slug": "ne-rabotaet-wi-fi",
+        "desc_ref": "desc_78",
+        "price": "от 150 BYN"
+      },
+      {
+        "name": "Нет сети",
+        "slug": "net-seti",
+        "desc_ref": "desc_79",
+        "price": "от 150 BYN"
+      },
+      {
+        "name": "Перепайка процессора",
+        "slug": "perepaika-protsessora",
+        "desc_ref": "",
+        "price": "330 BYN"
+      }
+    ],
+    "11-pro": [
+      {
+        "name": "Диагностика",
+        "slug": "diagnostika",
+        "desc_ref": "",
+        "price": "Бесплатно"
+      },
+      {
+        "name": "Ремонт Face ID",
+        "slug": "remont-face-id",
+        "desc_ref": "desc_71",
+        "price": "150 BYN"
+      },
+      {
+        "name": "Восстановление комплектующих Face ID",
+        "slug": "vosstanovlenie-komplektuyuschih-face-id",
+        "desc_ref": "desc_2",
+        "price": "120 BYN"
+      },
+      {
+        "name": "Замена аккумулятора",
+        "slug": "zamena-akkumulyatora",
+        "desc_ref": "desc_88",
+        "price": "140 BYN"
+      },
+      {
+        "name": "Замена дисплея (аналог OLED)",
+        "slug": "zamena-displeya-analog-oled",
+        "desc_ref": "desc_20",
+        "price": "210 BYN"
+      },
+      {
+        "name": "Замена дисплея (восстановленный оригинал)",
+        "slug": "zamena-displeya-vosstanovlennyi-original",
+        "desc_ref": "desc_4",
+        "price": "270 BYN"
+      },
+      {
+        "name": "Замена стекла дисплея",
+        "slug": "zamena-stekla-displeya",
+        "desc_ref": "desc_7",
+        "price": "170 BYN"
+      },
+      {
+        "name": "Замена стекла камеры",
+        "slug": "zamena-stekla-kamery",
+        "desc_ref": "",
+        "price": "50 BYN"
+      },
+      {
+        "name": "Замена заднего стекла корпуса",
+        "slug": "zamena-zadnego-stekla-korpusa",
+        "desc_ref": "desc_75",
+        "price": "110 BYN"
+      },
+      {
+        "name": "Замена корпуса",
+        "slug": "zamena-korpusa",
+        "desc_ref": "desc_36",
+        "price": "230 BYN"
+      },
+      {
+        "name": "Нет звуков либо плохой звук",
+        "slug": "net-zvukov-libo-plohoi-zvuk",
+        "desc_ref": "desc_10",
+        "price": "80 BYN"
+      },
+      {
+        "name": "Замена слухового динамика",
+        "slug": "zamena-sluhovogo-dinamika",
+        "desc_ref": "",
+        "price": "80 BYN"
+      },
+      {
+        "name": "Не работает камера",
+        "slug": "ne-rabotaet-kamera",
+        "desc_ref": "desc_11",
+        "price": "210 BYN"
+      },
+      {
+        "name": "Замена фронтальной камеры",
+        "slug": "zamena-frontalnoi-kamery",
+        "desc_ref": "desc_65",
+        "price": "150 BYN"
+      },
+      {
+        "name": "Восстановление цепи питания",
+        "slug": "vosstanovlenie-tsepi-pitaniya",
+        "desc_ref": "desc_12",
+        "price": "от 90 BYN"
+      },
+      {
+        "name": "Замена шлейфа зарядки",
+        "slug": "zamena-shleifa-zaryadki",
+        "desc_ref": "desc_13",
+        "price": "от 130 BYN"
+      },
+      {
+        "name": "Замена контроллера заряда",
+        "slug": "zamena-kontrollera-zaryada",
+        "desc_ref": "desc_76",
+        "price": "250 BYN"
+      },
+      {
+        "name": "Замена катушки беспроводной зарядки",
+        "slug": "zamena-katushki-besprovodnoi-zaryadki",
+        "desc_ref": "",
+        "price": "120 BYN"
+      },
+      {
+        "name": "Не работают кнопки",
+        "slug": "ne-rabotayut-knopki",
+        "desc_ref": "desc_15",
+        "price": "110 BYN"
+      },
+      {
+        "name": "Замена или увеличение флеш памяти",
+        "slug": "zamena-ili-uvelichenie-flesh-pamyati",
+        "desc_ref": "desc_77",
+        "price": "от 320 BYN"
+      },
+      {
+        "name": "Не работает WiFi",
+        "slug": "ne-rabotaet-wi-fi",
+        "desc_ref": "desc_78",
+        "price": "от 150 BYN"
+      },
+      {
+        "name": "Нет сети",
+        "slug": "net-seti",
+        "desc_ref": "desc_79",
+        "price": "от 180 BYN"
+      },
+      {
+        "name": "Перепайка процессора",
+        "slug": "perepaika-protsessora",
+        "desc_ref": "",
+        "price": "380 BYN"
+      }
+    ],
     "11-pro-max": [
       {
         "name": "Диагностика",
