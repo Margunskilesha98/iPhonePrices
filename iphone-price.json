@@ -277,7 +277,7 @@
         "name": "Замена аккумулятора",
         "slug": "zamena-akkumulyatora",
         "desc_ref": "desc_19",
-        "price": "Уточняйте"
+        "price": "440 BYN"
       },
       {
         "name": "Замена дисплея (аналог OLED)",
@@ -295,7 +295,7 @@
         "name": "Замена дисплея (оригинал)",
         "slug": "zamena-displeya-original",
         "desc_ref": "desc_5",
-        "price": "1650 BYN"
+        "price": "1370 BYN"
       },
       {
         "name": "Замена стекла дисплея",
@@ -313,19 +313,19 @@
         "name": "Замена заднего стекла корпуса (аналог)",
         "slug": "zamena-zadnego-stekla-korpusa-analog",
         "desc_ref": "desc_21",
-        "price": "Уточняйте"
+        "price": "350 BYN"
       },
       {
         "name": "Замена заднего стекла корпуса (оригинал)",
         "slug": "zamena-zadnego-stekla-korpusa-original",
         "desc_ref": "desc_22",
-        "price": "Уточняйте"
+        "price": "510 BYN"
       },
       {
         "name": "Замена корпуса",
         "slug": "zamena-korpusa",
         "desc_ref": "desc_23",
-        "price": "Уточняйте"
+        "price": "1200 BYN"
       },
       {
         "name": "Нет звуков либо плохой звук",
@@ -337,13 +337,13 @@
         "name": "Замена слухового динамика",
         "slug": "zamena-sluhovogo-dinamika",
         "desc_ref": "",
-        "price": "Уточняйте"
+        "price": "350 BYN"
       },
       {
         "name": "Не работает камера",
         "slug": "ne-rabotaet-kamera",
         "desc_ref": "desc_11",
-        "price": "Уточняйте"
+        "price": "580 BYN"
       },
       {
         "name": "Восстановление цепи питания",
@@ -355,7 +355,7 @@
         "name": "Замена шлейфа зарядки",
         "slug": "zamena-shleifa-zaryadki",
         "desc_ref": "desc_13",
-        "price": "Уточняйте"
+        "price": "370 BYN"
       },
       {
         "name": "Замена контроллера заряда",
@@ -417,7 +417,7 @@
         "name": "Замена аккумулятора",
         "slug": "zamena-akkumulyatora",
         "desc_ref": "desc_24",
-        "price": "600 BYN"
+        "price": "470 BYN"
       },
       {
         "name": "Замена дисплея (аналог OLED)",
@@ -435,7 +435,7 @@
         "name": "Замена дисплея (оригинал)",
         "slug": "zamena-displeya-original",
         "desc_ref": "desc_25",
-        "price": "1790 BYN"
+        "price": "1470 BYN"
       },
       {
         "name": "Замена стекла дисплея",
@@ -465,7 +465,7 @@
         "name": "Замена корпуса",
         "slug": "zamena-korpusa",
         "desc_ref": "desc_23",
-        "price": "1280 BYN"
+        "price": "1200 BYN"
       },
       {
         "name": "Нет звуков либо плохой звук",
@@ -557,7 +557,7 @@
         "name": "Замена аккумулятора",
         "slug": "zamena-akkumulyatora",
         "desc_ref": "desc_26",
-        "price": "600 BYN"
+        "price": "450 BYN"
       },
       {
         "name": "Замена дисплея (аналог OLED)",
@@ -575,7 +575,7 @@
         "name": "Замена дисплея (оригинал)",
         "slug": "zamena-displeya-original",
         "desc_ref": "desc_27",
-        "price": "1550 BYN"
+        "price": "1370 BYN"
       },
       {
         "name": "Замена стекла дисплея",
@@ -617,13 +617,13 @@
         "name": "Замена слухового динамика",
         "slug": "zamena-sluhovogo-dinamika",
         "desc_ref": "",
-        "price": "Уточняйте"
+        "price": "380 BYN"
       },
       {
         "name": "Не работает камера",
         "slug": "ne-rabotaet-kamera",
         "desc_ref": "desc_11",
-        "price": "Уточняйте"
+        "price": "590 BYN"
       },
       {
         "name": "Восстановление цепи питания",
@@ -703,7 +703,7 @@
         "name": "Замена аккумулятора",
         "slug": "zamena-akkumulyatora",
         "desc_ref": "desc_30",
-        "price": "580 BYN"
+        "price": "450 BYN"
       },
       {
         "name": "Замена дисплея (восстановленный оригинал)",
@@ -715,7 +715,7 @@
         "name": "Замена дисплея (сервисный оригинал)",
         "slug": "zamena-displeya-servisnyi-original",
         "desc_ref": "desc_5",
-        "price": "1640 BYN"
+        "price": "1100 BYN"
       },
       {
         "name": "Замена стекла дисплея",
@@ -739,7 +739,7 @@
         "name": "Замена заднего стекла корпуса (оригинал)",
         "slug": "zamena-zadnego-stekla-korpusa-original",
         "desc_ref": "desc_22",
-        "price": "Уточняйте"
+        "price": "490 BYN"
       },
       {
         "name": "Замена корпуса",
@@ -757,7 +757,7 @@
         "name": "Замена слухового динамика",
         "slug": "zamena-sluhovogo-dinamika",
         "desc_ref": "",
-        "price": "Уточняйте"
+        "price": "350 BYN"
       },
       {
         "name": "Не работает камера",
@@ -775,7 +775,7 @@
         "name": "Замена шлейфа зарядки",
         "slug": "zamena-shleifa-zaryadki",
         "desc_ref": "desc_13",
-        "price": "от 390 BYN"
+        "price": "от 350 BYN"
       },
       {
         "name": "Замена контроллера заряда",
@@ -989,7 +989,7 @@
         "name": "Замена дисплея (аналог OLED)",
         "slug": "zamena-displeya-analog-oled",
         "desc_ref": "desc_20",
-        "price": "800 BYN"
+        "price": "670 BYN"
       },
       {
         "name": "Замена дисплея (восстановленный оригинал)",
@@ -1001,7 +1001,7 @@
         "name": "Замена дисплея (оригинал)",
         "slug": "zamena-displeya-original",
         "desc_ref": "desc_33",
-        "price": "1470 BYN"
+        "price": "1270 BYN"
       },
       {
         "name": "Замена стекла дисплея",
@@ -1019,7 +1019,7 @@
         "name": "Замена заднего стекла корпуса (аналог)",
         "slug": "zamena-zadnego-stekla-korpusa-analog",
         "desc_ref": "desc_21",
-        "price": "310 BYN"
+        "price": "280 BYN"
       },
       {
         "name": "Замена заднего стекла корпуса (оригинал)",
@@ -1135,13 +1135,13 @@
         "name": "Замена дисплея (аналог OLED)",
         "slug": "zamena-displeya-analog-oled",
         "desc_ref": "desc_20",
-        "price": "900 BYN"
+        "price": "640 BYN"
       },
       {
         "name": "Замена дисплея (восстановленный оригинал)",
         "slug": "zamena-displeya-vosstanovlennyi-original",
         "desc_ref": "desc_4",
-        "price": "1200 BYN"
+        "price": "1100 BYN"
       },
       {
         "name": "Замена дисплея (оригинал)",
@@ -1165,13 +1165,13 @@
         "name": "Замена заднего стекла корпуса (аналог)",
         "slug": "zamena-zadnego-stekla-korpusa-analog",
         "desc_ref": "desc_21",
-        "price": "300 BYN"
+        "price": "280 BYN"
       },
       {
         "name": "Замена заднего стекла корпуса (оригинал)",
         "slug": "zamena-zadnego-stekla-korpusa-original",
         "desc_ref": "desc_22",
-        "price": "620 BYN"
+        "price": "510 BYN"
       },
       {
         "name": "Замена корпуса",
@@ -1195,7 +1195,7 @@
         "name": "Не работает камера",
         "slug": "ne-rabotaet-kamera",
         "desc_ref": "desc_11",
-        "price": "390 BYN"
+        "price": "450 BYN"
       },
       {
         "name": "Восстановление цепи питания",
@@ -1287,7 +1287,7 @@
         "name": "Замена дисплея (восстановленный оригинал)",
         "slug": "zamena-displeya-vosstanovlennyi-original",
         "desc_ref": "desc_4",
-        "price": "Уточняйте"
+        "price": "990 BYN"
       },
       {
         "name": "Замена дисплея (оригинал)",
@@ -1311,13 +1311,13 @@
         "name": "Замена заднего стекла корпуса (аналог)",
         "slug": "zamena-zadnego-stekla-korpusa-analog",
         "desc_ref": "desc_38",
-        "price": "330 BYN"
+        "price": "280 BYN"
       },
       {
         "name": "Замена заднего стекла корпуса (оригинал)",
         "slug": "zamena-zadnego-stekla-korpusa-original",
         "desc_ref": "desc_22",
-        "price": "530 BYN"
+        "price": "500 BYN"
       },
       {
         "name": "Замена корпуса",
@@ -1427,13 +1427,13 @@
         "name": "Замена дисплея (аналог OLED)",
         "slug": "zamena-displeya-analog-oled",
         "desc_ref": "desc_20",
-        "price": "720 BYN"
+        "price": "570 BYN"
       },
       {
         "name": "Замена дисплея (восстановленный оригинал)",
         "slug": "zamena-displeya-vosstanovlennyi-original",
         "desc_ref": "desc_4",
-        "price": "950 BYN"
+        "price": "790 BYN"
       },
       {
         "name": "Замена дисплея (оригинал)",
@@ -1457,7 +1457,7 @@
         "name": "Замена заднего стекла корпуса",
         "slug": "zamena-zadnego-stekla-korpusa",
         "desc_ref": "desc_8",
-        "price": "350 BYN"
+        "price": "270 BYN"
       },
       {
         "name": "Замена корпуса",
@@ -1567,13 +1567,13 @@
         "name": "Замена дисплея (аналог OLED)",
         "slug": "zamena-displeya-analog-oled",
         "desc_ref": "desc_20",
-        "price": "650 BYN"
+        "price": "470 BYN"
       },
       {
         "name": "Замена дисплея (восстановленный оригинал)",
         "slug": "zamena-displeya-vosstanovlennyi-original",
         "desc_ref": "desc_4",
-        "price": "1080 BYN"
+        "price": "960 BYN"
       },
       {
         "name": "Замена дисплея (оригинал)",
@@ -1603,7 +1603,7 @@
         "name": "Замена заднего стекла корпуса (оригинал)",
         "slug": "zamena-zadnego-stekla-korpusa-original",
         "desc_ref": "desc_22",
-        "price": "480 BYN"
+        "price": "420 BYN"
       },
       {
         "name": "Замена корпуса",
@@ -1621,7 +1621,7 @@
         "name": "Замена слухового динамика",
         "slug": "zamena-sluhovogo-dinamika",
         "desc_ref": "",
-        "price": "170 BYN"
+        "price": "190 BYN"
       },
       {
         "name": "Не работает камера",
@@ -1719,13 +1719,13 @@
         "name": "Замена дисплея (аналог OLED)",
         "slug": "zamena-displeya-analog-oled",
         "desc_ref": "desc_20",
-        "price": "530 BYN"
+        "price": "470 BYN"
       },
       {
         "name": "Замена дисплея (восстановленный оригинал)",
         "slug": "zamena-displeya-vosstanovlennyi-original",
         "desc_ref": "desc_4",
-        "price": "990 BYN"
+        "price": "920 BYN"
       },
       {
         "name": "Замена дисплея (оригинал)",
@@ -1871,19 +1871,19 @@
         "name": "Замена дисплея (аналог OLED)",
         "slug": "zamena-displeya-analog-oled",
         "desc_ref": "desc_20",
-        "price": "530 BYN"
+        "price": "430 BYN"
       },
       {
         "name": "Замена дисплея (восстановленный оригинал)",
         "slug": "zamena-displeya-vosstanovlennyi-original",
         "desc_ref": "desc_4",
-        "price": "750 BYN"
+        "price": "590 BYN"
       },
       {
         "name": "Замена дисплея (оригинал)",
         "slug": "zamena-displeya-original",
         "desc_ref": "desc_5",
-        "price": "1200 BYN"
+        "price": "1100 BYN"
       },
       {
         "name": "Замена стекла дисплея",
@@ -1907,7 +1907,7 @@
         "name": "Замена заднего стекла корпуса (оригинал)",
         "slug": "zamena-zadnego-stekla-korpusa-original",
         "desc_ref": "desc_22",
-        "price": "400 BYN"
+        "price": "370 BYN"
       },
       {
         "name": "Замена корпуса",
@@ -1925,7 +1925,7 @@
         "name": "Замена слухового динамика",
         "slug": "zamena-sluhovogo-dinamika",
         "desc_ref": "",
-        "price": "170 BYN"
+        "price": "160 BYN"
       },
       {
         "name": "Не работает камера",
@@ -2023,13 +2023,13 @@
         "name": "Замена дисплея (аналог OLED)",
         "slug": "zamena-displeya-analog-oled",
         "desc_ref": "desc_20",
-        "price": "490 BYN"
+        "price": "430 BYN"
       },
       {
         "name": "Замена дисплея (восстановленный оригинал)",
         "slug": "zamena-displeya-vosstanovlennyi-original",
         "desc_ref": "desc_4",
-        "price": "740 BYN"
+        "price": "680 BYN"
       },
       {
         "name": "Замена дисплея (оригинал)",
@@ -2053,7 +2053,7 @@
         "name": "Замена заднего стекла корпуса",
         "slug": "zamena-zadnego-stekla-korpusa",
         "desc_ref": "desc_8",
-        "price": "310 BYN"
+        "price": "от 240 BYN"
       },
       {
         "name": "Замена корпуса",
@@ -2169,13 +2169,13 @@
         "name": "Замена дисплея (аналог OLED)",
         "slug": "zamena-displeya-analog-oled",
         "desc_ref": "desc_20",
-        "price": "540 BYN"
+        "price": "440 BYN"
       },
       {
         "name": "Замена дисплея (восстановленный оригинал)",
         "slug": "zamena-displeya-vosstanovlennyi-original",
         "desc_ref": "desc_51",
-        "price": "1020 BYN"
+        "price": "880 BYN"
       },
       {
         "name": "Замена дисплея (оригинал)",
@@ -2199,7 +2199,7 @@
         "name": "Замена заднего стекла корпуса",
         "slug": "zamena-zadnego-stekla-korpusa",
         "desc_ref": "desc_38",
-        "price": "270 BYN"
+        "price": "250 BYN"
       },
       {
         "name": "Замена корпуса",
@@ -2315,19 +2315,19 @@
         "name": "Замена дисплея (аналог OLED)",
         "slug": "zamena-displeya-analog-oled",
         "desc_ref": "desc_20",
-        "price": "530 BYN"
+        "price": "380 BYN"
       },
       {
         "name": "Замена дисплея (восстановленный оригинал)",
         "slug": "zamena-displeya-vosstanovlennyi-original",
         "desc_ref": "desc_4",
-        "price": "850 BYN"
+        "price": "650 BYN"
       },
       {
         "name": "Замена дисплея (оригинал)",
         "slug": "zamena-displeya-original",
         "desc_ref": "desc_57",
-        "price": "990 BYN"
+        "price": "930 BYN"
       },
       {
         "name": "Замена стекла дисплея",
@@ -2595,13 +2595,13 @@
         "name": "Замена дисплея (аналог OLED)",
         "slug": "zamena-displeya-analog-oled",
         "desc_ref": "desc_20",
-        "price": "410 BYN"
+        "price": "370 BYN"
       },
       {
         "name": "Замена дисплея (восстановленный оригинал)",
         "slug": "zamena-displeya-vosstanovlennyi-original",
         "desc_ref": "desc_4",
-        "price": "580 BYN"
+        "price": "530 BYN"
       },
       {
         "name": "Замена дисплея (оригинал)",
@@ -2747,19 +2747,19 @@
         "name": "Замена дисплея (аналог OLED)",
         "slug": "zamena-displeya-analog-oled",
         "desc_ref": "desc_20",
-        "price": "480 BYN"
+        "price": "370 BYN"
       },
       {
         "name": "Замена дисплея (восстановленный оригинал)",
         "slug": "zamena-displeya-vosstanovlennyi-original",
         "desc_ref": "desc_4",
-        "price": "835 BYN"
+        "price": "585 BYN"
       },
       {
         "name": "Замена дисплея (сервисный оригинал)",
         "slug": "zamena-displeya-servisnyi-original",
         "desc_ref": "desc_68",
-        "price": "1120 BYN"
+        "price": "1020 BYN"
       },
       {
         "name": "Замена стекла дисплея",
@@ -2881,31 +2881,31 @@
         "name": "Замена аккумулятора",
         "slug": "zamena-akkumulyatora",
         "desc_ref": "desc_69",
-        "price": "210 BYN"
+        "price": "200 BYN"
       },
       {
         "name": "Замена аккумулятора (увеличенная емкость)",
         "slug": "zamena-akkumulyatora-uvelichennaya-emkost",
         "desc_ref": "desc_67",
-        "price": "235 BYN"
+        "price": "225 BYN"
       },
       {
         "name": "Замена дисплея (аналог OLED)",
         "slug": "zamena-displeya-analog-oled",
         "desc_ref": "desc_20",
-        "price": "470 BYN"
+        "price": "350 BYN"
       },
       {
         "name": "Замена дисплея (восстановленный оригинал)",
         "slug": "zamena-displeya-vosstanovlennyi-original",
         "desc_ref": "desc_4",
-        "price": "730 BYN"
+        "price": "550 BYN"
       },
       {
         "name": "Замена дисплея (оригинал)",
         "slug": "zamena-displeya-original",
         "desc_ref": "desc_6",
-        "price": "850 BYN"
+        "price": "800 BYN"
       },
       {
         "name": "Замена стекла дисплея",
@@ -3033,25 +3033,25 @@
         "name": "Замена аккумулятора",
         "slug": "zamena-akkumulyatora",
         "desc_ref": "desc_70",
-        "price": "200 BYN"
+        "price": "190 BYN"
       },
       {
         "name": "Замена аккумулятора (увеличенная емкость)",
         "slug": "zamena-akkumulyatora-uvelichennaya-emkost",
         "desc_ref": "desc_67",
-        "price": "230 BYN"
+        "price": "210 BYN"
       },
       {
         "name": "Замена дисплея (аналог OLED)",
         "slug": "zamena-displeya-analog-oled",
         "desc_ref": "desc_20",
-        "price": "360 BYN"
+        "price": "330 BYN"
       },
       {
         "name": "Замена дисплея (восстановленный оригинал)",
         "slug": "zamena-displeya-vosstanovlennyi-original",
         "desc_ref": "desc_4",
-        "price": "470 BYN"
+        "price": "420 BYN"
       },
       {
         "name": "Замена дисплея (оригинал)",
@@ -3191,19 +3191,19 @@
         "name": "Замена аккумулятора (увеличенная емкость)",
         "slug": "zamena-akkumulyatora-uvelichennaya-emkost",
         "desc_ref": "desc_73",
-        "price": "230 BYN"
+        "price": "210 BYN"
       },
       {
         "name": "Замена дисплея (аналог OLED)",
         "slug": "zamena-displeya-analog-oled",
         "desc_ref": "desc_20",
-        "price": "360 BYN"
+        "price": "340 BYN"
       },
       {
         "name": "Замена дисплея (восстановленный оригинал)",
         "slug": "zamena-displeya-vosstanovlennyi-original",
         "desc_ref": "desc_4",
-        "price": "520 BYN"
+        "price": "450 BYN"
       },
       {
         "name": "Замена дисплея (оригинал)",
@@ -3343,13 +3343,13 @@
         "name": "Замена дисплея (аналог OLED)",
         "slug": "zamena-displeya-analog-oled",
         "desc_ref": "desc_20",
-        "price": "390 BYN"
+        "price": "360 BYN"
       },
       {
         "name": "Замена дисплея (восстановленный оригинал)",
         "slug": "zamena-displeya-vosstanovlennyi-original",
         "desc_ref": "desc_4",
-        "price": "590 BYN"
+        "price": "540 BYN"
       },
       {
         "name": "Замена стекла дисплея",
@@ -3483,13 +3483,13 @@
         "name": "Замена дисплея (аналог OLED)",
         "slug": "zamena-displeya-analog-oled",
         "desc_ref": "desc_20",
-        "price": "290 BYN"
+        "price": "270 BYN"
       },
       {
         "name": "Замена дисплея (восстановленный оригинал)",
         "slug": "zamena-displeya-vosstanovlennyi-original",
         "desc_ref": "desc_81",
-        "price": "410 BYN"
+        "price": "360 BYN"
       },
       {
         "name": "Замена стекла дисплея",
@@ -3623,13 +3623,13 @@
         "name": "Замена дисплея (аналог OLED)",
         "slug": "zamena-displeya-analog-oled",
         "desc_ref": "desc_20",
-        "price": "290 BYN"
+        "price": "270 BYN"
       },
       {
         "name": "Замена дисплея (восстановленный оригинал)",
         "slug": "zamena-displeya-vosstanovlennyi-original",
         "desc_ref": "desc_81",
-        "price": "410 BYN"
+        "price": "360 BYN"
       },
       {
         "name": "Замена стекла дисплея",
@@ -3763,7 +3763,7 @@
         "name": "Замена дисплея (аналог OLED)",
         "slug": "zamena-displeya-analog-oled",
         "desc_ref": "desc_20",
-        "price": "290 BYN"
+        "price": "300 BYN"
       },
       {
         "name": "Замена дисплея (восстановленный оригинал)",
@@ -3897,7 +3897,7 @@
         "name": "Замена дисплея (восстановленный оригинал)",
         "slug": "zamena-displeya-vosstanovlennyi-original",
         "desc_ref": "desc_4",
-        "price": "220 BYN"
+        "price": "180 BYN"
       },
       {
         "name": "Замена стекла дисплея",
@@ -4031,7 +4031,7 @@
         "name": "Замена дисплея (восстановленный оригинал)",
         "slug": "zamena-displeya-vosstanovlennyi-original",
         "desc_ref": "desc_4",
-        "price": "390 BYN"
+        "price": "340 BYN"
       },
       {
         "name": "Замена стекла дисплея",
